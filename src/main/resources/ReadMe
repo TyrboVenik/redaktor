@@ -1,0 +1,20 @@
+Functions
+s-string
+d-nuber
+
+line s d d d d
+ircle s d d d
+bezier s d d {(d d)*} end
+
+section s s d d d d
+projection s s d d d
+clipping d d d d d d
+copy s s
+names
+delete s
+rotate s d
+close s d d
+change s d d {d}
+
+save s
+load s
